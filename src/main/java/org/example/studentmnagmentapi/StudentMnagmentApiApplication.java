@@ -11,8 +11,7 @@ public class StudentMnagmentApiApplication {
         SpringApplication.run(StudentMnagmentApiApplication.class, args);
 
 
-        Student s = new Student(1L,"Karan","karan@gmail.com");
-        System.out.println(s);
+
     }
 
 }
